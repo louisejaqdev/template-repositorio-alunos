@@ -1,10 +1,3 @@
-# template-repositorio-alunos
-
-Esse repositório deve ser usado como template para a criação de novos repositórios dos alunos(as).
-
-
----
-
 Alunos(as), sejam bem-vindos(as)!
 
 Esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
