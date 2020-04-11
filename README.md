@@ -11,7 +11,7 @@ Esse repositório :woman_technologist::man_technologist:vai acompanhar vocês at
 
 ```
 .
-├── :open_file_folder:semana-1 
+├── semana-1 
 │   ├── aula1
 │   ├── aula2
 │   ├── aula3
