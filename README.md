@@ -1,17 +1,17 @@
-# template-repositorio-alunos
+# TEMPLATE-REPOSITORIO-ALUNOS
 
-Esse repositório deve ser usado como template para a criação de novos repositórios dos alunos(as).
+:paperclips:Esse repositório deve ser usado como template para a criação de novos repositórios dos alunos(as).
 
 
 ---
 
 Alunos(as), sejam bem-vindos(as)!
 
-Esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
+esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
 
 ```
 .
-├── semana-1
+├── semana-1 
 │   ├── aula1
 │   ├── aula2
 │   ├── aula3
@@ -49,7 +49,7 @@ O que funciona
 O que não funciona
 - DESCREVA O QUE NÃO FUNCIONA NO SEU PROJETO
 Surto de link
-- A PARTIR DA SEMANA 5, INSIRA AQUI O LINK DO SURGE. ANTES DISSO, PAGUE ESSAS DUAS LINHAS.
+- A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, PAGUE ESSAS DUAS LINHAS.
 
 Imagens
 PNEUS DAS TELAS DO SEU SITE E COLE AQUI
