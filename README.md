@@ -43,7 +43,7 @@ Esse repositório :woman_technologist::man_technologist:vai acompanhar vocês at
 
  :file_folder:Uma pasta para cada semana,:file_folder:dentro delas uma pasta para cada dia de aula e por fim :file_folder:uma pasta para o projeto da semana.POR FAVOR, EDITE ESSA MENSAGEM INSERINDO AS INFORMAÇÕES DO SEU PROJETO. COMECE APAGANDO ESSA LINHA.
 
-	:memo: INSIRA O NOME NOME DO PROJETO AQUI
+:pencil: INSIRA O NOME NOME DO PROJETO AQUI
 O que funciona
 - DESCREVA O QUE FUNCIONA NO SEU PROJETO
 O que não funciona
