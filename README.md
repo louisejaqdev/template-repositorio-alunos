@@ -43,13 +43,16 @@ Esse repositório :woman_technologist::man_technologist:vai acompanhar vocês at
 
  :file_folder:Uma pasta para cada semana,:file_folder:dentro delas uma pasta para cada dia de aula e por fim :file_folder:uma pasta para o projeto da semana.POR FAVOR, EDITE ESSA MENSAGEM INSERINDO AS INFORMAÇÕES DO SEU PROJETO. COMECE APAGANDO ESSA LINHA.
 
-:pencil: INSIRA O NOME NOME DO PROJETO AQUI
+  :pencil: INSIRA O NOME NOME DO PROJETO AQUI
 O que funciona
-:pencil: DESCREVA O QUE FUNCIONA NO SEU PROJETO
+
+  :pencil: DESCREVA O QUE FUNCIONA NO SEU PROJETO
 O que não funciona
-:pencil:DESCREVA O QUE NÃO FUNCIONA NO SEU PROJETO
+
+  :pencil:DESCREVA O QUE NÃO FUNCIONA NO SEU PROJETO
 Surto de link
-:pencil: A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, APAGUE ESSAS DUAS LINHAS.
+
+  :pencil: A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, APAGUE ESSAS DUAS LINHAS.
 
 Imagens
 PNEUS DAS TELAS DO SEU SITE E COLE AQUI
