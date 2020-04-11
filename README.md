@@ -1,6 +1,6 @@
 # TEMPLATE-REPOSITORIO-ALUNOS
 
-##Esse repositório deve ser usado como template para a criação de novos repositórios dos alunos(as).:dart:
+### Esse repositório deve ser usado como template para a criação de novos repositórios dos alunos(as).:dart:
 
 
 ---
