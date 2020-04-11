@@ -7,7 +7,7 @@
 
 Alunos(as), sejam bem-vindos(as)!
 
-esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
+Esse repositório :woman_technologist::man_technologist:vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
 
 ```
 .
