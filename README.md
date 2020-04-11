@@ -45,11 +45,11 @@ Esse repositório :woman_technologist::man_technologist:vai acompanhar vocês at
 
 :pencil: INSIRA O NOME NOME DO PROJETO AQUI
 O que funciona
-- DESCREVA O QUE FUNCIONA NO SEU PROJETO
+:pencil: DESCREVA O QUE FUNCIONA NO SEU PROJETO
 O que não funciona
-- DESCREVA O QUE NÃO FUNCIONA NO SEU PROJETO
+:pencil:DESCREVA O QUE NÃO FUNCIONA NO SEU PROJETO
 Surto de link
-- A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, APAGUE ESSAS DUAS LINHAS.
+:pencil: A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, APAGUE ESSAS DUAS LINHAS.
 
 Imagens
 PNEUS DAS TELAS DO SEU SITE E COLE AQUI
