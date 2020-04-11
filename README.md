@@ -49,7 +49,7 @@ O que funciona
 O que não funciona
 - DESCREVA O QUE NÃO FUNCIONA NO SEU PROJETO
 Surto de link
-- A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, PAGUE ESSAS DUAS LINHAS.
+- A PARTIR DA SEMANA 5, INSIRA AQUI O [LINK](https://github.com/louisejaqdev/template-repositorio-alunos/edit/master/README.md) DO SURGE. ANTES DISSO, APAGUE ESSAS DUAS LINHAS.
 
 Imagens
 PNEUS DAS TELAS DO SEU SITE E COLE AQUI
